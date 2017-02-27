@@ -13,4 +13,4 @@ The purpose of this project is to collect, work with and clean a given data set.
 * extracts only the measurements on the mean and standard deviations for each measurement
 * uses descriptive activity names to name the activities in the data set
 * labels the data set
-* Creates the tidy daa set (newdata.txt)
+* Creates the tidy data set (newdata.txt)
